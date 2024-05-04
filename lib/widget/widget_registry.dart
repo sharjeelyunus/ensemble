@@ -54,7 +54,7 @@ import 'package:ensemble/widget/spacer.dart';
 import 'package:ensemble/widget/staggered_grid.dart';
 import 'package:ensemble/widget/stub_widgets.dart';
 import 'package:ensemble/widget/switch.dart';
-import 'package:ensemble/widget/text.dart';
+import 'package:ensemble/widget/Text.dart';
 import 'package:ensemble/widget/toggle_button.dart';
 import 'package:ensemble/widget/video.dart';
 import 'package:ensemble/widget/visualization/barchart.dart';
